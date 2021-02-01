@@ -20,3 +20,5 @@ Steps :
     - pip install Pillow==3.1.0
     - pip install django-rest-auth
     - pip install mysqlclient
+4. python mange.py runserver
+5. Please check URLs for operation 
